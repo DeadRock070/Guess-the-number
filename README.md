@@ -6,6 +6,5 @@
 Randomly generates a number between 1 and 20.
 Provides feedback on each guess (too high, too low, correct).
 Keeps track of the number of attempts.
-Simple and interactive command-line interface.
 # Requirements
 Javascript, HTML, CSS
